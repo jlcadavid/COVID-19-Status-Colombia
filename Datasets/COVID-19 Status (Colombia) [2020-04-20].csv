@@ -1,4 +1,4 @@
-Id de caso,Fecha de notificación,Fecha de diagnóstico,Fecha de Inicio de Síntomas,Fecha de recuperación,Fecha de defunción,Fecha de reporte web,Ciudad de ubicación,Departamento,Potencia,Estado,Edad,Clasificación de edad,Sexo,Tipo,País de procedencia,Código DIVIPOLA
+Id de caso,Fecha de notificación,Fecha de diagnóstico,Fecha de inicio de síntomas,Fecha de recuperación,Fecha de defunción,Fecha de reporte web,Ciudad de ubicación,Departamento,Severidad,Estado,Edad,Clasificación de edad,Sexo,Tipo,País de procedencia,Código DIVIPOLA
 1,2020-03-02,2020-03-06,2020-02-27 00:00:00,2020-03-13,,2020-03-06,Bogotá d.c.,Bogotá D.C.,Leve,Recuperado,19,10 - 20,F,Importado,Italia,11001
 2,2020-03-06,2020-03-09,2020-03-04 00:00:00,2020-03-19,,2020-03-09,Guadalajara de buga,Valle del Cauca,Leve,Recuperado,34,30 - 40,M,Importado,España,76111
 3,2020-03-07,2020-03-09,2020-02-29 00:00:00,2020-03-15,,2020-03-09,Medellín,Antioquia,Leve,Recuperado,50,40 - 50,F,Importado,España,5001
@@ -312,7 +312,7 @@ Id de caso,Fecha de notificación,Fecha de diagnóstico,Fecha de Inicio de Sínt
 311,2020-03-23,2020-03-23,2020-03-17 00:00:00,2020-04-01,,2020-03-23,Bogotá d.c.,Bogotá D.C.,Leve,Recuperado,40,30 - 40,F,En estudio,Colombia,11001
 312,2020-03-23,2020-03-23,2020-03-18 00:00:00,2020-04-02,,2020-03-23,Bogotá d.c.,Bogotá D.C.,Leve,Recuperado,18,10 - 20,F,En estudio,Colombia,11001
 313,2020-03-23,2020-03-23,2020-03-14 00:00:00,2020-03-29,,2020-03-23,Bogotá d.c.,Bogotá D.C.,Leve,Recuperado,48,40 - 50,F,Relacionado,Colombia,11001
-314,2020-03-20,2020-03-24,2020-03-19 00:00:00,,2020-04-09,2020-03-24,Ipiales,Nariño,fallecido,Fallecido,62,60 - 70,M,Importado,Ecuador,52356
+314,2020-03-20,2020-03-24,2020-03-19 00:00:00,,2020-04-09,2020-03-24,Ipiales,Nariño,Fallecido,Fallecido,62,60 - 70,M,Importado,Ecuador,52356
 315,2020-03-21,2020-03-24,2020-03-20 00:00:00,,,2020-03-24,Cúcuta,Norte de Santander,Leve,Casa,49,40 - 50,M,Importado,Canada,54001
 316,2020-03-19,2020-03-24,2020-03-15 00:00:00,,,2020-03-24,Cúcuta,Norte de Santander,Leve,Casa,18,10 - 20,M,Importado,Estados unidos de america,54001
 317,2020-03-21,2020-03-24,2020-03-16 00:00:00,2020-03-30,,2020-03-24,Mosquera,Cundinamarca,Leve,Recuperado,37,30 - 40,M,Relacionado,Colombia,25473
@@ -2808,7 +2808,7 @@ Id de caso,Fecha de notificación,Fecha de diagnóstico,Fecha de Inicio de Sínt
 2807,2020-04-10,2020-04-13,2020-04-04 00:00:00,,,2020-04-13,Bogotá d.c.,Bogotá D.C.,Leve,Casa,33,30 - 40,M,En estudio,Colombia,11001
 2808,2020-04-10,2020-04-13,2020-04-03 00:00:00,,,2020-04-13,Bogotá d.c.,Bogotá D.C.,Leve,Casa,28,20 - 30,F,En estudio,Colombia,11001
 2809,2020-04-09,2020-04-13,2020-04-07 00:00:00,,,2020-04-13,Bogotá d.c.,Bogotá D.C.,Leve,Casa,36,30 - 40,F,En estudio,Colombia,11001
-2810,2020-03-24,2020-04-13,2020-03-19 00:00:00,,,2020-04-13,Bogotá d.c.,Bogotá D.C.,leve,Casa,27,20 - 30,M,En estudio,Colombia,11001
+2810,2020-03-24,2020-04-13,2020-03-19 00:00:00,,,2020-04-13,Bogotá d.c.,Bogotá D.C.,Leve,Casa,27,20 - 30,M,En estudio,Colombia,11001
 2811,2020-03-31,2020-04-13,2020-03-20 00:00:00,,,2020-04-13,Bogotá d.c.,Bogotá D.C.,Leve,Casa,37,30 - 40,M,En estudio,Colombia,11001
 2812,2020-04-10,2020-04-13,2020-04-02 00:00:00,,,2020-04-13,Bogotá d.c.,Bogotá D.C.,Moderado,Hospital,53,50 - 60,M,En estudio,Colombia,11001
 2813,2020-04-09,2020-04-13,2020-04-04 00:00:00,,,2020-04-13,Bogotá d.c.,Bogotá D.C.,Moderado,Hospital,54,50 - 60,M,En estudio,Colombia,11001
@@ -2889,7 +2889,7 @@ Id de caso,Fecha de notificación,Fecha de diagnóstico,Fecha de Inicio de Sínt
 2888,2020-04-11,2020-04-14,2020-04-01 00:00:00,,,2020-04-14,Medellín,Antioquia,Grave,Hospital uci,44,40 - 50,M,En estudio,Colombia,5001
 2889,2020-04-11,2020-04-14,2020-04-10 00:00:00,,,2020-04-14,Medellín,Antioquia,Moderado,Hospital,78,70 - 80,M,En estudio,Colombia,5001
 2890,2020-04-11,2020-04-14,2020-03-17 00:00:00,,,2020-04-14,Envigado,Antioquia,Moderado,Hospital,67,60 - 70,M,En estudio,Colombia,5266
-2891,2020-04-14,2020-04-14,2020-04-12 00:00:00,,,2020-04-14,Medellín,Antioquia,leve,Casa,40,30 - 40,M,En estudio,Colombia,5001
+2891,2020-04-14,2020-04-14,2020-04-12 00:00:00,,,2020-04-14,Medellín,Antioquia,Leve,Casa,40,30 - 40,M,En estudio,Colombia,5001
 2892,2020-04-14,2020-04-14,2020-04-06 00:00:00,,,2020-04-14,Bello,Antioquia,Leve,Casa,18,10 - 20,F,Relacionado,Colombia,5088
 2893,2020-04-14,2020-04-14,2020-04-10 00:00:00,,,2020-04-14,Medellín,Antioquia,Leve,Casa,52,50 - 60,F,En estudio,Colombia,5001
 2894,2020-04-09,2020-04-14,2020-04-01 00:00:00,,,2020-04-14,Cali,Valle del Cauca,Leve,Casa,66,60 - 70,F,En estudio,Colombia,76001
@@ -2923,7 +2923,7 @@ Id de caso,Fecha de notificación,Fecha de diagnóstico,Fecha de Inicio de Sínt
 2922,2020-04-05,2020-04-14,2020-03-20 00:00:00,,,2020-04-14,Bogotá d.c.,Bogotá D.C.,Leve,Casa,28,20 - 30,F,En estudio,Colombia,11001
 2923,2020-04-05,2020-04-14,2020-03-31 00:00:00,,,2020-04-14,Bogotá d.c.,Bogotá D.C.,Leve,Casa,21,20 - 30,M,En estudio,Colombia,11001
 2924,2020-04-05,2020-04-14,2020-03-29 00:00:00,,,2020-04-14,Bogotá d.c.,Bogotá D.C.,Leve,Casa,87,80 - 90,F,En estudio,Colombia,11001
-2925,2020-04-05,2020-04-14,2020-03-27 00:00:00,,,2020-04-14,Bogotá d.c.,Bogotá D.C.,leve,Casa,61,60 - 70,F,En estudio,Colombia,11001
+2925,2020-04-05,2020-04-14,2020-03-27 00:00:00,,,2020-04-14,Bogotá d.c.,Bogotá D.C.,Leve,Casa,61,60 - 70,F,En estudio,Colombia,11001
 2926,2020-04-04,2020-04-14,2020-03-20 00:00:00,,,2020-04-14,Bogotá d.c.,Bogotá D.C.,Leve,Casa,45,40 - 50,F,Importado,Mexico,11001
 2927,2020-04-06,2020-04-14,2020-03-22 00:00:00,,,2020-04-14,Bogotá d.c.,Bogotá D.C.,Leve,Casa,47,40 - 50,F,En estudio,Colombia,11001
 2928,2020-04-06,2020-04-14,2020-03-30 00:00:00,,,2020-04-14,Bogotá d.c.,Bogotá D.C.,Leve,Casa,35,30 - 40,M,En estudio,Colombia,11001
@@ -3025,8 +3025,8 @@ Id de caso,Fecha de notificación,Fecha de diagnóstico,Fecha de Inicio de Sínt
 3024,2020-04-12,2020-04-15,2020-04-12 00:00:00,,,2020-04-15,Suesca,Cundinamarca,Leve,Casa,70,60 - 70,F,Relacionado,Colombia,25772
 3025,2020-04-12,2020-04-15,2020-04-04 00:00:00,,,2020-04-15,Suesca,Cundinamarca,Moderado,Hospital,92,90 - 100+,F,Relacionado,Colombia,25772
 3026,2020-04-12,2020-04-15,2020-03-29 00:00:00,,,2020-04-15,Suesca,Cundinamarca,Moderado,Hospital,51,50 - 60,M,Relacionado,Colombia,25772
-3027,2020-04-11,2020-04-15,Asintomáti,,,2020-04-15,Ibagué,Tolima,leve,Casa,35,30 - 40,F,Relacionado,Colombia,73001
-3028,2020-04-11,2020-04-15,2020-04-08 00:00:00,,,2020-04-15,Ibagué,Tolima,leve,Casa,39,30 - 40,M,En estudio,Colombia,73001
+3027,2020-04-11,2020-04-15,Asintomáti,,,2020-04-15,Ibagué,Tolima,Leve,Casa,35,30 - 40,F,Relacionado,Colombia,73001
+3028,2020-04-11,2020-04-15,2020-04-08 00:00:00,,,2020-04-15,Ibagué,Tolima,Leve,Casa,39,30 - 40,M,En estudio,Colombia,73001
 3029,2020-04-09,2020-04-15,2020-04-09 00:00:00,,,2020-04-15,La dorada,Caldas,Leve,Casa,5,0 - 10,F,Relacionado,Colombia,17380
 3030,2020-04-10,2020-04-15,2020-04-09 00:00:00,,,2020-04-15,La dorada,Caldas,Leve,Casa,23,20 - 30,M,Relacionado,Colombia,17380
 3031,2020-04-10,2020-04-15,Asintomáti,,,2020-04-15,La dorada,Caldas,Leve,Casa,4,0 - 10,M,Relacionado,Colombia,17380
@@ -3149,10 +3149,10 @@ Id de caso,Fecha de notificación,Fecha de diagnóstico,Fecha de Inicio de Sínt
 3148,2020-04-14,2020-04-16,Asintomáti,,,2020-04-16,Cartagena de indias,Cartagena D.T. y C.,Moderado,Hospital,36,30 - 40,F,Relacionado,Colombia,13001
 3149,2020-04-14,2020-04-16,Asintomáti,,,2020-04-16,Cartagena de indias,Cartagena D.T. y C.,Moderado,Hospital,12,10 - 20,M,Relacionado,Colombia,13001
 3150,2020-04-14,2020-04-16,Asintomáti,,,2020-04-16,Cartagena de indias,Cartagena D.T. y C.,Moderado,Hospital,62,60 - 70,M,Relacionado,Colombia,13001
-3151,2020-04-14,2020-04-16,2020-04-12 00:00:00,,,2020-04-16,Cartagena de indias,Cartagena D.T. y C.,leve,Casa,52,50 - 60,F,En estudio,Colombia,13001
-3152,2020-04-14,2020-04-16,2020-04-12 00:00:00,,,2020-04-16,Cartagena de indias,Cartagena D.T. y C.,leve,Casa,22,20 - 30,M,En estudio,Colombia,13001
+3151,2020-04-14,2020-04-16,2020-04-12 00:00:00,,,2020-04-16,Cartagena de indias,Cartagena D.T. y C.,Leve,Casa,52,50 - 60,F,En estudio,Colombia,13001
+3152,2020-04-14,2020-04-16,2020-04-12 00:00:00,,,2020-04-16,Cartagena de indias,Cartagena D.T. y C.,Leve,Casa,22,20 - 30,M,En estudio,Colombia,13001
 3153,2020-04-09,2020-04-16,2020-04-01 00:00:00,,2020-04-18,2020-04-16,Medellín,Antioquia,Fallecido,Fallecido,67,60 - 70,M,Relacionado,Colombia,5001
-3154,2020-04-13,2020-04-16,2020-04-13 00:00:00,,,2020-04-16,Itagüí,Antioquia,leve,Casa,49,40 - 50,M,Relacionado,Colombia,5360
+3154,2020-04-13,2020-04-16,2020-04-13 00:00:00,,,2020-04-16,Itagüí,Antioquia,Leve,Casa,49,40 - 50,M,Relacionado,Colombia,5360
 3155,2020-04-12,2020-04-16,2020-04-05 00:00:00,,,2020-04-16,Barranquilla,Barranquilla D.E.,Moderado,Hospital,47,40 - 50,M,En estudio,Colombia,8001
 3156,2020-04-12,2020-04-16,2020-04-11 00:00:00,,,2020-04-16,Neiva,Huila,Leve,Casa,44,40 - 50,F,En estudio,Colombia,41001
 3157,2020-04-12,2020-04-16,2020-04-10 00:00:00,,,2020-04-16,Neiva,Huila,Leve,Casa,60,50 - 60,F,En estudio,Colombia,41001
@@ -3301,7 +3301,7 @@ Id de caso,Fecha de notificación,Fecha de diagnóstico,Fecha de Inicio de Sínt
 3300,2020-04-13,2020-04-17,2020-04-13 00:00:00,,,2020-04-17,Florida,Valle del Cauca,Leve,Casa,51,50 - 60,M,Relacionado,Colombia,76275
 3301,2020-04-13,2020-04-17,2020-04-05 00:00:00,,,2020-04-17,Guadalajara de buga,Valle del Cauca,Leve,Casa,48,40 - 50,M,Relacionado,Colombia,76111
 3302,2020-04-13,2020-04-17,2020-04-06 00:00:00,,,2020-04-17,Guadalajara de buga,Valle del Cauca,Leve,Casa,24,20 - 30,F,Relacionado,Colombia,76111
-3303,2020-04-13,2020-04-17,2020-04-01 00:00:00,,,2020-04-17,El cerrito,Valle del Cauca,leve,Casa,3,0 - 10,M,Relacionado,Colombia,76248
+3303,2020-04-13,2020-04-17,2020-04-01 00:00:00,,,2020-04-17,El cerrito,Valle del Cauca,Leve,Casa,3,0 - 10,M,Relacionado,Colombia,76248
 3304,2020-04-11,2020-04-17,2020-04-11 00:00:00,,,2020-04-17,Neiva,Huila,Moderado,Hospital,66,60 - 70,M,En estudio,Colombia,41001
 3305,2020-04-11,2020-04-17,2020-04-03 00:00:00,,,2020-04-17,Ibagué,Tolima,Leve,Casa,27,20 - 30,F,Relacionado,Colombia,73001
 3306,2020-04-12,2020-04-17,2020-04-12 00:00:00,,,2020-04-17,Túquerres,Nariño,Moderado,Hospital,78,70 - 80,M,En estudio,Colombia,52838
@@ -3334,7 +3334,7 @@ Id de caso,Fecha de notificación,Fecha de diagnóstico,Fecha de Inicio de Sínt
 3333,2020-04-11,2020-04-17,2020-04-02 00:00:00,,,2020-04-17,Bogotá d.c.,Bogotá D.C.,Leve,Casa,35,30 - 40,F,Relacionado,Colombia,11001
 3334,2020-04-11,2020-04-17,2020-04-04 00:00:00,,,2020-04-17,Bogotá d.c.,Bogotá D.C.,Leve,Casa,13,10 - 20,F,Relacionado,Colombia,11001
 3335,2020-04-11,2020-04-17,2020-03-15 00:00:00,,,2020-04-17,Bogotá d.c.,Bogotá D.C.,Leve,Casa,42,40 - 50,F,En estudio,Colombia,11001
-3336,2020-04-14,2020-04-19,2020-03-30 00:00:00,,,2020-04-19,Bogotá d.c.,Bogotá D.C.,leve,Casa,40,30 - 40,M,En estudio,Colombia,11001
+3336,2020-04-14,2020-04-19,2020-03-30 00:00:00,,,2020-04-19,Bogotá d.c.,Bogotá D.C.,Leve,Casa,40,30 - 40,M,En estudio,Colombia,11001
 3337,2020-04-09,2020-04-17,2020-04-03 00:00:00,,,2020-04-17,Bogotá d.c.,Bogotá D.C.,Leve,Casa,24,20 - 30,M,En estudio,Colombia,11001
 3338,2020-04-08,2020-04-17,2020-04-01 00:00:00,,,2020-04-17,Bogotá d.c.,Bogotá D.C.,Leve,Casa,49,40 - 50,M,En estudio,Colombia,11001
 3339,2020-04-09,2020-04-17,2020-04-08 00:00:00,,,2020-04-17,Bogotá d.c.,Bogotá D.C.,Moderado,Hospital,72,70 - 80,F,En estudio,Colombia,11001
@@ -3441,11 +3441,11 @@ Id de caso,Fecha de notificación,Fecha de diagnóstico,Fecha de Inicio de Sínt
 3440,2020-04-13,2020-04-18,2020-04-12 00:00:00,,,2020-04-18,Leticia,Amazonas,Leve,Casa,47,40 - 50,F,Importado,Brasil,91001
 3441,2020-04-15,2020-04-18,2020-03-28 00:00:00,,,2020-04-18,Barranquilla,Barranquilla D.E.,Leve,Casa,59,50 - 60,M,En estudio,Colombia,8001
 3442,2020-04-11,2020-04-18,2020-04-01 00:00:00,,,2020-04-18,Bogotá d.c.,Bogotá D.C.,Leve,Casa,22,20 - 30,F,En estudio,Colombia,11001
-3443,2020-04-14,2020-04-18,Asintomáti,,,2020-04-18,Medellín,Antioquia,leve,Casa,31,30 - 40,F,En estudio,Colombia,5001
-3444,2020-04-15,2020-04-18,2020-04-10 00:00:00,,,2020-04-18,Medellín,Antioquia,leve,Casa,30,20 - 30,F,Relacionado,Colombia,5001
-3445,2020-04-15,2020-04-18,2020-04-14 00:00:00,,,2020-04-18,Medellín,Antioquia,leve,Casa,42,40 - 50,F,Relacionado,Colombia,5001
-3446,2020-04-14,2020-04-18,2020-04-08 00:00:00,,,2020-04-18,Zipaquirá,Cundinamarca,leve,Casa,30,20 - 30,M,Relacionado,Colombia,25899
-3447,2020-04-13,2020-04-18,2020-04-09 00:00:00,,,2020-04-18,Amagá,Antioquia,leve,Casa,30,20 - 30,M,Relacionado,Colombia,5030
+3443,2020-04-14,2020-04-18,Asintomáti,,,2020-04-18,Medellín,Antioquia,Leve,Casa,31,30 - 40,F,En estudio,Colombia,5001
+3444,2020-04-15,2020-04-18,2020-04-10 00:00:00,,,2020-04-18,Medellín,Antioquia,Leve,Casa,30,20 - 30,F,Relacionado,Colombia,5001
+3445,2020-04-15,2020-04-18,2020-04-14 00:00:00,,,2020-04-18,Medellín,Antioquia,Leve,Casa,42,40 - 50,F,Relacionado,Colombia,5001
+3446,2020-04-14,2020-04-18,2020-04-08 00:00:00,,,2020-04-18,Zipaquirá,Cundinamarca,Leve,Casa,30,20 - 30,M,Relacionado,Colombia,25899
+3447,2020-04-13,2020-04-18,2020-04-09 00:00:00,,,2020-04-18,Amagá,Antioquia,Leve,Casa,30,20 - 30,M,Relacionado,Colombia,5030
 3448,2020-04-14,2020-04-18,2020-04-14 00:00:00,,,2020-04-18,San andrés de tumaco,Nariño,Leve,Casa,31,30 - 40,M,En estudio,Colombia,52835
 3449,2020-04-15,2020-04-18,2020-04-13 00:00:00,,,2020-04-18,Bogotá d.c.,Bogotá D.C.,Leve,Casa,41,40 - 50,M,En estudio,Colombia,11001
 3450,2020-04-15,2020-04-18,2020-04-08 00:00:00,,,2020-04-18,Bogotá d.c.,Bogotá D.C.,Leve,Casa,35,30 - 40,M,En estudio,Colombia,11001
@@ -3622,8 +3622,8 @@ Id de caso,Fecha de notificación,Fecha de diagnóstico,Fecha de Inicio de Sínt
 3621,2020-04-13,2020-04-18,2020-04-12 00:00:00,,,2020-04-18,Yumbo,Valle del Cauca,Leve,Casa,26,20 - 30,M,Relacionado,Colombia,76892
 3622,2020-04-16,2020-04-19,2020-04-13 00:00:00,,,2020-04-19,Bogotá d.c.,Bogotá D.C.,Leve,Casa,18,10 - 20,M,En estudio,Colombia,11001
 3623,2020-04-13,2020-04-19,2020-04-12 00:00:00,,,2020-04-19,Cali,Valle del Cauca,Leve,Casa,28,20 - 30,M,Relacionado,Colombia,76001
-3624,2020-03-27,2020-04-19,2020-03-23 00:00:00,,,2020-04-19,Bogotá d.c.,Bogotá D.C.,leve,Casa,10,0 - 10,M,En estudio,Colombia,11001
-3625,2020-04-04,2020-04-19,2020-03-28 00:00:00,,,2020-04-19,Bogotá d.c.,Bogotá D.C.,leve,Casa,43,40 - 50,M,En estudio,Colombia,11001
+3624,2020-03-27,2020-04-19,2020-03-23 00:00:00,,,2020-04-19,Bogotá d.c.,Bogotá D.C.,Leve,Casa,10,0 - 10,M,En estudio,Colombia,11001
+3625,2020-04-04,2020-04-19,2020-03-28 00:00:00,,,2020-04-19,Bogotá d.c.,Bogotá D.C.,Leve,Casa,43,40 - 50,M,En estudio,Colombia,11001
 3626,2020-04-16,2020-04-19,2020-04-16 00:00:00,,,2020-04-19,Medellín,Antioquia,Leve,Casa,39,30 - 40,M,En estudio,Colombia,5001
 3627,2020-04-13,2020-04-19,2020-04-13 00:00:00,,,2020-04-19,Vijes,Valle del Cauca,Leve,Casa,43,40 - 50,M,En estudio,Colombia,76869
 3628,2020-04-16,2020-04-19,2020-04-14 00:00:00,,,2020-04-19,Cali,Valle del Cauca,Leve,Casa,26,20 - 30,F,En estudio,Colombia,76001
@@ -3631,7 +3631,7 @@ Id de caso,Fecha de notificación,Fecha de diagnóstico,Fecha de Inicio de Sínt
 3630,2020-04-14,2020-04-19,2020-03-31 00:00:00,,,2020-04-19,Cali,Valle del Cauca,Leve,Casa,59,50 - 60,F,En estudio,Colombia,76001
 3631,2020-04-16,2020-04-19,2020-04-10 00:00:00,,,2020-04-19,Medellín,Antioquia,Leve,Casa,10,0 - 10,F,En estudio,Colombia,5001
 3632,2020-04-15,2020-04-19,2020-04-07 00:00:00,,,2020-04-19,Cali,Valle del Cauca,Leve,Casa,29,20 - 30,M,En estudio,Colombia,76001
-3633,2020-04-16,2020-04-19,2020-04-10 00:00:00,,,2020-04-19,Bogotá d.c.,Bogotá D.C.,leve,Casa,23,20 - 30,M,En estudio,Colombia,11001
+3633,2020-04-16,2020-04-19,2020-04-10 00:00:00,,,2020-04-19,Bogotá d.c.,Bogotá D.C.,Leve,Casa,23,20 - 30,M,En estudio,Colombia,11001
 3634,2020-04-16,2020-04-19,2020-04-15 00:00:00,,,2020-04-19,Medellín,Antioquia,Leve,Casa,72,70 - 80,F,Relacionado,Colombia,5001
 3635,2020-04-16,2020-04-19,2020-04-14 00:00:00,,,2020-04-19,Medellín,Antioquia,Grave,Hospital uci,74,70 - 80,M,En estudio,Colombia,5001
 3636,2020-04-08,2020-04-19,2020-04-03 00:00:00,,,2020-04-19,Sonsón,Antioquia,Moderado,Hospital,49,40 - 50,M,Relacionado,Colombia,5756
@@ -3648,7 +3648,7 @@ Id de caso,Fecha de notificación,Fecha de diagnóstico,Fecha de Inicio de Sínt
 3647,2020-04-19,2020-04-19,2020-04-12 00:00:00,,,2020-04-19,Itagüí,Antioquia,Moderado,Hospital,84,80 - 90,M,Relacionado,Colombia,5360
 3648,2020-04-17,2020-04-19,2020-04-14 00:00:00,,,2020-04-19,Bogotá d.c.,Bogotá D.C.,Leve,Casa,31,30 - 40,F,En estudio,Colombia,11001
 3649,2020-04-16,2020-04-19,2020-03-31 00:00:00,,,2020-04-19,Florencia,Caquetá,Leve,Casa,34,30 - 40,M,Relacionado,Colombia,18001
-3650,2020-04-16,2020-04-19,2020-04-15 00:00:00,,,2020-04-19,Bogotá d.c.,Bogotá D.C.,leve,Casa,29,20 - 30,F,En estudio,Colombia,11001
+3650,2020-04-16,2020-04-19,2020-04-15 00:00:00,,,2020-04-19,Bogotá d.c.,Bogotá D.C.,Leve,Casa,29,20 - 30,F,En estudio,Colombia,11001
 3651,2020-04-14,2020-04-19,2020-04-07 00:00:00,,,2020-04-19,Cali,Valle del Cauca,Leve,Casa,34,30 - 40,M,En estudio,Colombia,76001
 3652,2020-04-14,2020-04-19,2020-04-14 00:00:00,,,2020-04-19,Cali,Valle del Cauca,Leve,Casa,39,30 - 40,F,En estudio,Colombia,76001
 3653,2020-04-13,2020-04-19,2020-04-09 00:00:00,,,2020-04-19,Cali,Valle del Cauca,Leve,Casa,26,20 - 30,M,En estudio,Colombia,76001
@@ -3665,120 +3665,120 @@ Id de caso,Fecha de notificación,Fecha de diagnóstico,Fecha de Inicio de Sínt
 3664,2020-04-14,2020-04-19,-   -,,,2020-04-19,Pereira,Risaralda,Leve,Casa,31,30 - 40,F,En estudio,Colombia,66001
 3665,2020-04-16,2020-04-19,2020-04-15 00:00:00,,,2020-04-19,Pereira,Risaralda,Leve,Casa,30,20 - 30,M,En estudio,Colombia,66001
 3666,2020-04-13,2020-04-19,2020-04-11 00:00:00,,,2020-04-19,Bogotá d.c.,Bogotá D.C.,Leve,Casa,24,20 - 30,F,Importado,Peru,11001
-3667,2020-04-10,2020-04-19,2020-03-30 00:00:00,,,2020-04-19,Bogotá d.c.,Bogotá D.C.,leve,Casa,13,10 - 20,F,En estudio,Colombia,11001
-3668,2020-04-09,2020-04-19,2020-04-05 00:00:00,,,2020-04-19,Bogotá d.c.,Bogotá D.C.,leve,Casa,37,30 - 40,M,En estudio,Colombia,11001
-3669,2020-04-09,2020-04-19,2020-04-04 00:00:00,,,2020-04-19,Bogotá d.c.,Bogotá D.C.,leve,Casa,45,40 - 50,M,En estudio,Colombia,11001
-3670,2020-04-09,2020-04-19,2020-04-06 00:00:00,,,2020-04-19,Bogotá d.c.,Bogotá D.C.,leve,Casa,49,40 - 50,F,En estudio,Colombia,11001
-3671,2020-04-09,2020-04-19,2020-04-06 00:00:00,,,2020-04-19,Bogotá d.c.,Bogotá D.C.,leve,Casa,43,40 - 50,M,En estudio,Colombia,11001
-3672,2020-04-09,2020-04-19,2020-04-05 00:00:00,,,2020-04-19,Bogotá d.c.,Bogotá D.C.,leve,Casa,39,30 - 40,F,En estudio,Colombia,11001
-3673,2020-04-09,2020-04-19,2020-04-05 00:00:00,,,2020-04-19,Bogotá d.c.,Bogotá D.C.,leve,Casa,67,60 - 70,F,En estudio,Colombia,11001
-3674,2020-04-09,2020-04-19,2020-04-08 00:00:00,,,2020-04-19,Bogotá d.c.,Bogotá D.C.,leve,Casa,10,0 - 10,F,En estudio,Colombia,11001
+3667,2020-04-10,2020-04-19,2020-03-30 00:00:00,,,2020-04-19,Bogotá d.c.,Bogotá D.C.,Leve,Casa,13,10 - 20,F,En estudio,Colombia,11001
+3668,2020-04-09,2020-04-19,2020-04-05 00:00:00,,,2020-04-19,Bogotá d.c.,Bogotá D.C.,Leve,Casa,37,30 - 40,M,En estudio,Colombia,11001
+3669,2020-04-09,2020-04-19,2020-04-04 00:00:00,,,2020-04-19,Bogotá d.c.,Bogotá D.C.,Leve,Casa,45,40 - 50,M,En estudio,Colombia,11001
+3670,2020-04-09,2020-04-19,2020-04-06 00:00:00,,,2020-04-19,Bogotá d.c.,Bogotá D.C.,Leve,Casa,49,40 - 50,F,En estudio,Colombia,11001
+3671,2020-04-09,2020-04-19,2020-04-06 00:00:00,,,2020-04-19,Bogotá d.c.,Bogotá D.C.,Leve,Casa,43,40 - 50,M,En estudio,Colombia,11001
+3672,2020-04-09,2020-04-19,2020-04-05 00:00:00,,,2020-04-19,Bogotá d.c.,Bogotá D.C.,Leve,Casa,39,30 - 40,F,En estudio,Colombia,11001
+3673,2020-04-09,2020-04-19,2020-04-05 00:00:00,,,2020-04-19,Bogotá d.c.,Bogotá D.C.,Leve,Casa,67,60 - 70,F,En estudio,Colombia,11001
+3674,2020-04-09,2020-04-19,2020-04-08 00:00:00,,,2020-04-19,Bogotá d.c.,Bogotá D.C.,Leve,Casa,10,0 - 10,F,En estudio,Colombia,11001
 3675,2020-04-09,2020-04-19,2020-04-02 00:00:00,,,2020-04-19,Bogotá d.c.,Bogotá D.C.,Moderado,Hospital,38,30 - 40,F,En estudio,Colombia,11001
-3676,2020-04-10,2020-04-19,2020-03-29 00:00:00,,,2020-04-19,Bogotá d.c.,Bogotá D.C.,leve,Casa,57,50 - 60,M,En estudio,Colombia,11001
-3677,2020-04-10,2020-04-19,2020-03-28 00:00:00,,,2020-04-19,Bogotá d.c.,Bogotá D.C.,leve,Casa,46,40 - 50,F,En estudio,Colombia,11001
-3678,2020-04-09,2020-04-19,2020-04-06 00:00:00,,,2020-04-19,Bogotá d.c.,Bogotá D.C.,leve,Casa,13,10 - 20,M,En estudio,Colombia,11001
-3679,2020-04-10,2020-04-19,2020-04-05 00:00:00,,,2020-04-19,Bogotá d.c.,Bogotá D.C.,leve,Casa,6,0 - 10,M,En estudio,Colombia,11001
-3680,2020-04-10,2020-04-19,2020-04-01 00:00:00,,,2020-04-19,Bogotá d.c.,Bogotá D.C.,leve,Casa,62,60 - 70,F,En estudio,Colombia,11001
-3681,2020-04-09,2020-04-19,2020-04-09 00:00:00,,,2020-04-19,Bogotá d.c.,Bogotá D.C.,leve,Casa,49,40 - 50,F,En estudio,Colombia,11001
-3682,2020-04-09,2020-04-19,2020-04-08 00:00:00,,,2020-04-19,Bogotá d.c.,Bogotá D.C.,leve,Casa,33,30 - 40,F,En estudio,Colombia,11001
-3683,2020-04-09,2020-04-19,2020-04-07 00:00:00,,,2020-04-19,Bogotá d.c.,Bogotá D.C.,leve,Casa,43,40 - 50,F,En estudio,Colombia,11001
-3684,2020-04-09,2020-04-19,2020-04-09 00:00:00,,,2020-04-19,Bogotá d.c.,Bogotá D.C.,leve,Casa,13,10 - 20,M,En estudio,Colombia,11001
-3685,2020-04-09,2020-04-19,2020-04-09 00:00:00,,,2020-04-19,Bogotá d.c.,Bogotá D.C.,leve,Casa,8,0 - 10,M,En estudio,Colombia,11001
-3686,2020-04-12,2020-04-19,2020-04-11 00:00:00,,,2020-04-19,Bogotá d.c.,Bogotá D.C.,leve,Casa,41,40 - 50,F,En estudio,Colombia,11001
-3687,2020-04-11,2020-04-19,2020-04-06 00:00:00,,,2020-04-19,Bogotá d.c.,Bogotá D.C.,leve,Casa,5,0 - 10,F,En estudio,Colombia,11001
-3688,2020-04-11,2020-04-19,2020-04-06 00:00:00,,,2020-04-19,Bogotá d.c.,Bogotá D.C.,leve,Casa,47,40 - 50,F,En estudio,Colombia,11001
-3689,2020-04-11,2020-04-19,2020-04-01 00:00:00,,,2020-04-19,Bogotá d.c.,Bogotá D.C.,leve,Casa,75,70 - 80,F,En estudio,Colombia,11001
-3690,2020-04-11,2020-04-19,2020-04-05 00:00:00,,,2020-04-19,Bogotá d.c.,Bogotá D.C.,leve,Casa,57,50 - 60,M,En estudio,Colombia,11001
-3691,2020-04-11,2020-04-19,2020-04-05 00:00:00,,,2020-04-19,Bogotá d.c.,Bogotá D.C.,leve,Casa,25,20 - 30,F,En estudio,Colombia,11001
-3692,2020-04-11,2020-04-19,2020-04-11 00:00:00,,,2020-04-19,Bogotá d.c.,Bogotá D.C.,leve,Casa,72,70 - 80,M,En estudio,Colombia,11001
-3693,2020-04-10,2020-04-19,2020-04-10 00:00:00,,,2020-04-19,Bogotá d.c.,Bogotá D.C.,leve,Casa,51,50 - 60,M,En estudio,Colombia,11001
-3694,2020-04-12,2020-04-19,2020-04-07 00:00:00,,,2020-04-19,Bogotá d.c.,Bogotá D.C.,leve,Casa,27,20 - 30,F,En estudio,Colombia,11001
-3695,2020-04-11,2020-04-19,2020-04-11 00:00:00,,,2020-04-19,Bogotá d.c.,Bogotá D.C.,leve,Casa,30,20 - 30,F,En estudio,Colombia,11001
-3696,2020-04-12,2020-04-19,2020-04-04 00:00:00,,,2020-04-19,Bogotá d.c.,Bogotá D.C.,leve,Casa,53,50 - 60,M,En estudio,Colombia,11001
+3676,2020-04-10,2020-04-19,2020-03-29 00:00:00,,,2020-04-19,Bogotá d.c.,Bogotá D.C.,Leve,Casa,57,50 - 60,M,En estudio,Colombia,11001
+3677,2020-04-10,2020-04-19,2020-03-28 00:00:00,,,2020-04-19,Bogotá d.c.,Bogotá D.C.,Leve,Casa,46,40 - 50,F,En estudio,Colombia,11001
+3678,2020-04-09,2020-04-19,2020-04-06 00:00:00,,,2020-04-19,Bogotá d.c.,Bogotá D.C.,Leve,Casa,13,10 - 20,M,En estudio,Colombia,11001
+3679,2020-04-10,2020-04-19,2020-04-05 00:00:00,,,2020-04-19,Bogotá d.c.,Bogotá D.C.,Leve,Casa,6,0 - 10,M,En estudio,Colombia,11001
+3680,2020-04-10,2020-04-19,2020-04-01 00:00:00,,,2020-04-19,Bogotá d.c.,Bogotá D.C.,Leve,Casa,62,60 - 70,F,En estudio,Colombia,11001
+3681,2020-04-09,2020-04-19,2020-04-09 00:00:00,,,2020-04-19,Bogotá d.c.,Bogotá D.C.,Leve,Casa,49,40 - 50,F,En estudio,Colombia,11001
+3682,2020-04-09,2020-04-19,2020-04-08 00:00:00,,,2020-04-19,Bogotá d.c.,Bogotá D.C.,Leve,Casa,33,30 - 40,F,En estudio,Colombia,11001
+3683,2020-04-09,2020-04-19,2020-04-07 00:00:00,,,2020-04-19,Bogotá d.c.,Bogotá D.C.,Leve,Casa,43,40 - 50,F,En estudio,Colombia,11001
+3684,2020-04-09,2020-04-19,2020-04-09 00:00:00,,,2020-04-19,Bogotá d.c.,Bogotá D.C.,Leve,Casa,13,10 - 20,M,En estudio,Colombia,11001
+3685,2020-04-09,2020-04-19,2020-04-09 00:00:00,,,2020-04-19,Bogotá d.c.,Bogotá D.C.,Leve,Casa,8,0 - 10,M,En estudio,Colombia,11001
+3686,2020-04-12,2020-04-19,2020-04-11 00:00:00,,,2020-04-19,Bogotá d.c.,Bogotá D.C.,Leve,Casa,41,40 - 50,F,En estudio,Colombia,11001
+3687,2020-04-11,2020-04-19,2020-04-06 00:00:00,,,2020-04-19,Bogotá d.c.,Bogotá D.C.,Leve,Casa,5,0 - 10,F,En estudio,Colombia,11001
+3688,2020-04-11,2020-04-19,2020-04-06 00:00:00,,,2020-04-19,Bogotá d.c.,Bogotá D.C.,Leve,Casa,47,40 - 50,F,En estudio,Colombia,11001
+3689,2020-04-11,2020-04-19,2020-04-01 00:00:00,,,2020-04-19,Bogotá d.c.,Bogotá D.C.,Leve,Casa,75,70 - 80,F,En estudio,Colombia,11001
+3690,2020-04-11,2020-04-19,2020-04-05 00:00:00,,,2020-04-19,Bogotá d.c.,Bogotá D.C.,Leve,Casa,57,50 - 60,M,En estudio,Colombia,11001
+3691,2020-04-11,2020-04-19,2020-04-05 00:00:00,,,2020-04-19,Bogotá d.c.,Bogotá D.C.,Leve,Casa,25,20 - 30,F,En estudio,Colombia,11001
+3692,2020-04-11,2020-04-19,2020-04-11 00:00:00,,,2020-04-19,Bogotá d.c.,Bogotá D.C.,Leve,Casa,72,70 - 80,M,En estudio,Colombia,11001
+3693,2020-04-10,2020-04-19,2020-04-10 00:00:00,,,2020-04-19,Bogotá d.c.,Bogotá D.C.,Leve,Casa,51,50 - 60,M,En estudio,Colombia,11001
+3694,2020-04-12,2020-04-19,2020-04-07 00:00:00,,,2020-04-19,Bogotá d.c.,Bogotá D.C.,Leve,Casa,27,20 - 30,F,En estudio,Colombia,11001
+3695,2020-04-11,2020-04-19,2020-04-11 00:00:00,,,2020-04-19,Bogotá d.c.,Bogotá D.C.,Leve,Casa,30,20 - 30,F,En estudio,Colombia,11001
+3696,2020-04-12,2020-04-19,2020-04-04 00:00:00,,,2020-04-19,Bogotá d.c.,Bogotá D.C.,Leve,Casa,53,50 - 60,M,En estudio,Colombia,11001
 3697,2020-04-12,2020-04-19,2020-04-06 00:00:00,,,2020-04-19,Bogotá d.c.,Bogotá D.C.,Moderado,Hospital,62,60 - 70,M,En estudio,Colombia,11001
-3698,2020-04-12,2020-04-19,2020-04-09 00:00:00,,,2020-04-19,Bogotá d.c.,Bogotá D.C.,leve,Casa,57,50 - 60,M,En estudio,Colombia,11001
-3699,2020-04-12,2020-04-19,Asintomáti,,,2020-04-19,Bogotá d.c.,Bogotá D.C.,leve,Casa,43,40 - 50,F,En estudio,Colombia,11001
-3700,2020-04-12,2020-04-19,2020-04-12 00:00:00,,,2020-04-19,Bogotá d.c.,Bogotá D.C.,leve,Casa,21,20 - 30,F,En estudio,Colombia,11001
-3701,2020-04-12,2020-04-19,Asintomáti,,,2020-04-19,Bogotá d.c.,Bogotá D.C.,leve,Casa,46,40 - 50,M,En estudio,Colombia,11001
-3702,2020-04-12,2020-04-19,Asintomáti,,,2020-04-19,Bogotá d.c.,Bogotá D.C.,leve,Casa,57,50 - 60,M,En estudio,Colombia,11001
-3703,2020-04-12,2020-04-19,2020-04-01 00:00:00,,,2020-04-19,Bogotá d.c.,Bogotá D.C.,leve,Casa,80,70 - 80,F,En estudio,Colombia,11001
-3704,2020-04-12,2020-04-19,2020-04-12 00:00:00,,,2020-04-19,Bogotá d.c.,Bogotá D.C.,leve,Casa,4,0 - 10,M,En estudio,Colombia,11001
-3705,2020-04-12,2020-04-19,2020-04-08 00:00:00,,,2020-04-19,Bogotá d.c.,Bogotá D.C.,leve,Casa,15,10 - 20,M,En estudio,Colombia,11001
-3706,2020-04-12,2020-04-19,2020-04-08 00:00:00,,,2020-04-19,Bogotá d.c.,Bogotá D.C.,leve,Casa,21,20 - 30,M,En estudio,Colombia,11001
-3707,2020-04-06,2020-04-19,2020-04-05 00:00:00,,,2020-04-19,Bogotá d.c.,Bogotá D.C.,leve,Casa,6,0 - 10,M,En estudio,Colombia,11001
-3708,2020-04-12,2020-04-19,2020-04-09 00:00:00,,,2020-04-19,Bogotá d.c.,Bogotá D.C.,leve,Casa,14,10 - 20,M,En estudio,Colombia,11001
-3709,2020-04-12,2020-04-19,2020-04-05 00:00:00,,,2020-04-19,Bogotá d.c.,Bogotá D.C.,leve,Casa,40,30 - 40,M,En estudio,Colombia,11001
-3710,2020-04-12,2020-04-19,2020-04-09 00:00:00,,,2020-04-19,Bogotá d.c.,Bogotá D.C.,leve,Casa,39,30 - 40,F,En estudio,Colombia,11001
-3711,2020-04-12,2020-04-19,2020-03-14 00:00:00,,,2020-04-19,Bogotá d.c.,Bogotá D.C.,leve,Casa,24,20 - 30,F,En estudio,Colombia,11001
-3712,2020-04-12,2020-04-19,2020-04-12 00:00:00,,,2020-04-19,Bogotá d.c.,Bogotá D.C.,leve,Casa,63,60 - 70,F,En estudio,Colombia,11001
-3713,2020-04-12,2020-04-19,2020-03-20 00:00:00,,,2020-04-19,Bogotá d.c.,Bogotá D.C.,leve,Casa,22,20 - 30,M,En estudio,Colombia,11001
-3714,2020-04-12,2020-04-19,2020-03-15 00:00:00,,,2020-04-19,Bogotá d.c.,Bogotá D.C.,leve,Casa,59,50 - 60,F,En estudio,Colombia,11001
-3715,2020-04-12,2020-04-19,2020-04-12 00:00:00,,,2020-04-19,Bogotá d.c.,Bogotá D.C.,leve,Casa,22,20 - 30,F,En estudio,Colombia,11001
-3716,2020-04-12,2020-04-19,2020-03-30 00:00:00,,,2020-04-19,Bogotá d.c.,Bogotá D.C.,leve,Casa,28,20 - 30,M,En estudio,Colombia,11001
-3717,2020-04-12,2020-04-19,2020-04-06 00:00:00,,,2020-04-19,Bogotá d.c.,Bogotá D.C.,leve,Casa,32,30 - 40,F,En estudio,Colombia,11001
-3718,2020-04-12,2020-04-19,2020-04-06 00:00:00,,,2020-04-19,Bogotá d.c.,Bogotá D.C.,leve,Casa,37,30 - 40,F,En estudio,Colombia,11001
-3719,2020-04-12,2020-04-19,2020-04-05 00:00:00,,,2020-04-19,Bogotá d.c.,Bogotá D.C.,leve,Casa,73,70 - 80,F,En estudio,Colombia,11001
-3720,2020-04-12,2020-04-19,2020-04-12 00:00:00,,,2020-04-19,Bogotá d.c.,Bogotá D.C.,leve,Casa,42,40 - 50,M,En estudio,Colombia,11001
-3721,2020-04-11,2020-04-19,2020-04-04 00:00:00,,,2020-04-19,Bogotá d.c.,Bogotá D.C.,leve,Casa,62,60 - 70,M,En estudio,Colombia,11001
-3722,2020-04-11,2020-04-19,2020-04-09 00:00:00,,,2020-04-19,Bogotá d.c.,Bogotá D.C.,leve,Casa,34,30 - 40,F,En estudio,Colombia,11001
-3723,2020-04-11,2020-04-19,2020-04-01 00:00:00,,,2020-04-19,Bogotá d.c.,Bogotá D.C.,leve,Casa,4,0 - 10,F,En estudio,Colombia,11001
-3724,2020-04-11,2020-04-19,2020-04-06 00:00:00,,,2020-04-19,Bogotá d.c.,Bogotá D.C.,leve,Casa,37,30 - 40,M,En estudio,Colombia,11001
-3725,2020-04-11,2020-04-19,2020-04-11 00:00:00,,,2020-04-19,Bogotá d.c.,Bogotá D.C.,leve,Casa,70,60 - 70,M,En estudio,Colombia,11001
-3726,2020-04-11,2020-04-19,2020-03-30 00:00:00,,,2020-04-19,Bogotá d.c.,Bogotá D.C.,leve,Casa,43,40 - 50,M,En estudio,Colombia,11001
-3727,2020-04-11,2020-04-19,2020-03-30 00:00:00,,,2020-04-19,Bogotá d.c.,Bogotá D.C.,leve,Casa,41,40 - 50,F,En estudio,Colombia,11001
-3728,2020-04-11,2020-04-19,2020-03-28 00:00:00,,,2020-04-19,Bogotá d.c.,Bogotá D.C.,leve,Casa,61,60 - 70,M,En estudio,Colombia,11001
-3729,2020-04-11,2020-04-19,2020-04-04 00:00:00,,,2020-04-19,Bogotá d.c.,Bogotá D.C.,leve,Casa,13,10 - 20,M,En estudio,Colombia,11001
-3730,2020-04-10,2020-04-19,2020-03-29 00:00:00,,,2020-04-19,Bogotá d.c.,Bogotá D.C.,leve,Casa,32,30 - 40,M,En estudio,Colombia,11001
-3731,2020-04-11,2020-04-19,2020-04-11 00:00:00,,,2020-04-19,Bogotá d.c.,Bogotá D.C.,leve,Casa,45,40 - 50,M,En estudio,Colombia,11001
-3732,2020-04-11,2020-04-19,2020-04-11 00:00:00,,,2020-04-19,Bogotá d.c.,Bogotá D.C.,leve,Casa,47,40 - 50,F,En estudio,Colombia,11001
-3733,2020-04-11,2020-04-19,2020-04-11 00:00:00,,,2020-04-19,Bogotá d.c.,Bogotá D.C.,leve,Casa,24,20 - 30,M,En estudio,Colombia,11001
-3734,2020-04-11,2020-04-19,2020-04-11 00:00:00,,,2020-04-19,Bogotá d.c.,Bogotá D.C.,leve,Casa,36,30 - 40,F,En estudio,Colombia,11001
-3735,2020-04-11,2020-04-19,2020-04-05 00:00:00,,,2020-04-19,Bogotá d.c.,Bogotá D.C.,leve,Casa,24,20 - 30,F,En estudio,Colombia,11001
-3736,2020-04-11,2020-04-19,2020-04-11 00:00:00,,,2020-04-19,Bogotá d.c.,Bogotá D.C.,leve,Casa,30,20 - 30,M,En estudio,Colombia,11001
-3737,2020-04-11,2020-04-19,2020-04-04 00:00:00,,,2020-04-19,Bogotá d.c.,Bogotá D.C.,leve,Casa,37,30 - 40,F,En estudio,Colombia,11001
-3738,2020-04-11,2020-04-19,2020-04-05 00:00:00,,,2020-04-19,Bogotá d.c.,Bogotá D.C.,leve,Casa,36,30 - 40,M,En estudio,Colombia,11001
-3739,2020-04-12,2020-04-19,Asintomáti,,,2020-04-19,Bogotá d.c.,Bogotá D.C.,leve,Casa,11,10 - 20,F,En estudio,Colombia,11001
-3740,2020-04-12,2020-04-19,2020-03-18 00:00:00,,,2020-04-19,Bogotá d.c.,Bogotá D.C.,leve,Casa,17,10 - 20,M,En estudio,Colombia,11001
-3741,2020-04-12,2020-04-19,2020-04-12 00:00:00,,,2020-04-19,Bogotá d.c.,Bogotá D.C.,leve,Casa,47,40 - 50,M,En estudio,Colombia,11001
-3742,2020-04-12,2020-04-19,2020-04-12 00:00:00,,,2020-04-19,Bogotá d.c.,Bogotá D.C.,leve,Casa,62,60 - 70,F,Importado,Turquia,11001
-3743,2020-04-12,2020-04-19,2020-04-12 00:00:00,,,2020-04-19,Bogotá d.c.,Bogotá D.C.,leve,Casa,36,30 - 40,M,Importado,Turquia,11001
-3744,2020-04-12,2020-04-19,2020-04-06 00:00:00,,,2020-04-19,Bogotá d.c.,Bogotá D.C.,leve,Casa,39,30 - 40,F,En estudio,Colombia,11001
-3745,2020-04-12,2020-04-19,2020-04-12 00:00:00,,,2020-04-19,Bogotá d.c.,Bogotá D.C.,leve,Casa,41,40 - 50,M,En estudio,Colombia,11001
-3746,2020-04-12,2020-04-19,2020-04-11 00:00:00,,,2020-04-19,Bogotá d.c.,Bogotá D.C.,leve,Casa,26,20 - 30,M,En estudio,Colombia,11001
+3698,2020-04-12,2020-04-19,2020-04-09 00:00:00,,,2020-04-19,Bogotá d.c.,Bogotá D.C.,Leve,Casa,57,50 - 60,M,En estudio,Colombia,11001
+3699,2020-04-12,2020-04-19,Asintomáti,,,2020-04-19,Bogotá d.c.,Bogotá D.C.,Leve,Casa,43,40 - 50,F,En estudio,Colombia,11001
+3700,2020-04-12,2020-04-19,2020-04-12 00:00:00,,,2020-04-19,Bogotá d.c.,Bogotá D.C.,Leve,Casa,21,20 - 30,F,En estudio,Colombia,11001
+3701,2020-04-12,2020-04-19,Asintomáti,,,2020-04-19,Bogotá d.c.,Bogotá D.C.,Leve,Casa,46,40 - 50,M,En estudio,Colombia,11001
+3702,2020-04-12,2020-04-19,Asintomáti,,,2020-04-19,Bogotá d.c.,Bogotá D.C.,Leve,Casa,57,50 - 60,M,En estudio,Colombia,11001
+3703,2020-04-12,2020-04-19,2020-04-01 00:00:00,,,2020-04-19,Bogotá d.c.,Bogotá D.C.,Leve,Casa,80,70 - 80,F,En estudio,Colombia,11001
+3704,2020-04-12,2020-04-19,2020-04-12 00:00:00,,,2020-04-19,Bogotá d.c.,Bogotá D.C.,Leve,Casa,4,0 - 10,M,En estudio,Colombia,11001
+3705,2020-04-12,2020-04-19,2020-04-08 00:00:00,,,2020-04-19,Bogotá d.c.,Bogotá D.C.,Leve,Casa,15,10 - 20,M,En estudio,Colombia,11001
+3706,2020-04-12,2020-04-19,2020-04-08 00:00:00,,,2020-04-19,Bogotá d.c.,Bogotá D.C.,Leve,Casa,21,20 - 30,M,En estudio,Colombia,11001
+3707,2020-04-06,2020-04-19,2020-04-05 00:00:00,,,2020-04-19,Bogotá d.c.,Bogotá D.C.,Leve,Casa,6,0 - 10,M,En estudio,Colombia,11001
+3708,2020-04-12,2020-04-19,2020-04-09 00:00:00,,,2020-04-19,Bogotá d.c.,Bogotá D.C.,Leve,Casa,14,10 - 20,M,En estudio,Colombia,11001
+3709,2020-04-12,2020-04-19,2020-04-05 00:00:00,,,2020-04-19,Bogotá d.c.,Bogotá D.C.,Leve,Casa,40,30 - 40,M,En estudio,Colombia,11001
+3710,2020-04-12,2020-04-19,2020-04-09 00:00:00,,,2020-04-19,Bogotá d.c.,Bogotá D.C.,Leve,Casa,39,30 - 40,F,En estudio,Colombia,11001
+3711,2020-04-12,2020-04-19,2020-03-14 00:00:00,,,2020-04-19,Bogotá d.c.,Bogotá D.C.,Leve,Casa,24,20 - 30,F,En estudio,Colombia,11001
+3712,2020-04-12,2020-04-19,2020-04-12 00:00:00,,,2020-04-19,Bogotá d.c.,Bogotá D.C.,Leve,Casa,63,60 - 70,F,En estudio,Colombia,11001
+3713,2020-04-12,2020-04-19,2020-03-20 00:00:00,,,2020-04-19,Bogotá d.c.,Bogotá D.C.,Leve,Casa,22,20 - 30,M,En estudio,Colombia,11001
+3714,2020-04-12,2020-04-19,2020-03-15 00:00:00,,,2020-04-19,Bogotá d.c.,Bogotá D.C.,Leve,Casa,59,50 - 60,F,En estudio,Colombia,11001
+3715,2020-04-12,2020-04-19,2020-04-12 00:00:00,,,2020-04-19,Bogotá d.c.,Bogotá D.C.,Leve,Casa,22,20 - 30,F,En estudio,Colombia,11001
+3716,2020-04-12,2020-04-19,2020-03-30 00:00:00,,,2020-04-19,Bogotá d.c.,Bogotá D.C.,Leve,Casa,28,20 - 30,M,En estudio,Colombia,11001
+3717,2020-04-12,2020-04-19,2020-04-06 00:00:00,,,2020-04-19,Bogotá d.c.,Bogotá D.C.,Leve,Casa,32,30 - 40,F,En estudio,Colombia,11001
+3718,2020-04-12,2020-04-19,2020-04-06 00:00:00,,,2020-04-19,Bogotá d.c.,Bogotá D.C.,Leve,Casa,37,30 - 40,F,En estudio,Colombia,11001
+3719,2020-04-12,2020-04-19,2020-04-05 00:00:00,,,2020-04-19,Bogotá d.c.,Bogotá D.C.,Leve,Casa,73,70 - 80,F,En estudio,Colombia,11001
+3720,2020-04-12,2020-04-19,2020-04-12 00:00:00,,,2020-04-19,Bogotá d.c.,Bogotá D.C.,Leve,Casa,42,40 - 50,M,En estudio,Colombia,11001
+3721,2020-04-11,2020-04-19,2020-04-04 00:00:00,,,2020-04-19,Bogotá d.c.,Bogotá D.C.,Leve,Casa,62,60 - 70,M,En estudio,Colombia,11001
+3722,2020-04-11,2020-04-19,2020-04-09 00:00:00,,,2020-04-19,Bogotá d.c.,Bogotá D.C.,Leve,Casa,34,30 - 40,F,En estudio,Colombia,11001
+3723,2020-04-11,2020-04-19,2020-04-01 00:00:00,,,2020-04-19,Bogotá d.c.,Bogotá D.C.,Leve,Casa,4,0 - 10,F,En estudio,Colombia,11001
+3724,2020-04-11,2020-04-19,2020-04-06 00:00:00,,,2020-04-19,Bogotá d.c.,Bogotá D.C.,Leve,Casa,37,30 - 40,M,En estudio,Colombia,11001
+3725,2020-04-11,2020-04-19,2020-04-11 00:00:00,,,2020-04-19,Bogotá d.c.,Bogotá D.C.,Leve,Casa,70,60 - 70,M,En estudio,Colombia,11001
+3726,2020-04-11,2020-04-19,2020-03-30 00:00:00,,,2020-04-19,Bogotá d.c.,Bogotá D.C.,Leve,Casa,43,40 - 50,M,En estudio,Colombia,11001
+3727,2020-04-11,2020-04-19,2020-03-30 00:00:00,,,2020-04-19,Bogotá d.c.,Bogotá D.C.,Leve,Casa,41,40 - 50,F,En estudio,Colombia,11001
+3728,2020-04-11,2020-04-19,2020-03-28 00:00:00,,,2020-04-19,Bogotá d.c.,Bogotá D.C.,Leve,Casa,61,60 - 70,M,En estudio,Colombia,11001
+3729,2020-04-11,2020-04-19,2020-04-04 00:00:00,,,2020-04-19,Bogotá d.c.,Bogotá D.C.,Leve,Casa,13,10 - 20,M,En estudio,Colombia,11001
+3730,2020-04-10,2020-04-19,2020-03-29 00:00:00,,,2020-04-19,Bogotá d.c.,Bogotá D.C.,Leve,Casa,32,30 - 40,M,En estudio,Colombia,11001
+3731,2020-04-11,2020-04-19,2020-04-11 00:00:00,,,2020-04-19,Bogotá d.c.,Bogotá D.C.,Leve,Casa,45,40 - 50,M,En estudio,Colombia,11001
+3732,2020-04-11,2020-04-19,2020-04-11 00:00:00,,,2020-04-19,Bogotá d.c.,Bogotá D.C.,Leve,Casa,47,40 - 50,F,En estudio,Colombia,11001
+3733,2020-04-11,2020-04-19,2020-04-11 00:00:00,,,2020-04-19,Bogotá d.c.,Bogotá D.C.,Leve,Casa,24,20 - 30,M,En estudio,Colombia,11001
+3734,2020-04-11,2020-04-19,2020-04-11 00:00:00,,,2020-04-19,Bogotá d.c.,Bogotá D.C.,Leve,Casa,36,30 - 40,F,En estudio,Colombia,11001
+3735,2020-04-11,2020-04-19,2020-04-05 00:00:00,,,2020-04-19,Bogotá d.c.,Bogotá D.C.,Leve,Casa,24,20 - 30,F,En estudio,Colombia,11001
+3736,2020-04-11,2020-04-19,2020-04-11 00:00:00,,,2020-04-19,Bogotá d.c.,Bogotá D.C.,Leve,Casa,30,20 - 30,M,En estudio,Colombia,11001
+3737,2020-04-11,2020-04-19,2020-04-04 00:00:00,,,2020-04-19,Bogotá d.c.,Bogotá D.C.,Leve,Casa,37,30 - 40,F,En estudio,Colombia,11001
+3738,2020-04-11,2020-04-19,2020-04-05 00:00:00,,,2020-04-19,Bogotá d.c.,Bogotá D.C.,Leve,Casa,36,30 - 40,M,En estudio,Colombia,11001
+3739,2020-04-12,2020-04-19,Asintomáti,,,2020-04-19,Bogotá d.c.,Bogotá D.C.,Leve,Casa,11,10 - 20,F,En estudio,Colombia,11001
+3740,2020-04-12,2020-04-19,2020-03-18 00:00:00,,,2020-04-19,Bogotá d.c.,Bogotá D.C.,Leve,Casa,17,10 - 20,M,En estudio,Colombia,11001
+3741,2020-04-12,2020-04-19,2020-04-12 00:00:00,,,2020-04-19,Bogotá d.c.,Bogotá D.C.,Leve,Casa,47,40 - 50,M,En estudio,Colombia,11001
+3742,2020-04-12,2020-04-19,2020-04-12 00:00:00,,,2020-04-19,Bogotá d.c.,Bogotá D.C.,Leve,Casa,62,60 - 70,F,Importado,Turquia,11001
+3743,2020-04-12,2020-04-19,2020-04-12 00:00:00,,,2020-04-19,Bogotá d.c.,Bogotá D.C.,Leve,Casa,36,30 - 40,M,Importado,Turquia,11001
+3744,2020-04-12,2020-04-19,2020-04-06 00:00:00,,,2020-04-19,Bogotá d.c.,Bogotá D.C.,Leve,Casa,39,30 - 40,F,En estudio,Colombia,11001
+3745,2020-04-12,2020-04-19,2020-04-12 00:00:00,,,2020-04-19,Bogotá d.c.,Bogotá D.C.,Leve,Casa,41,40 - 50,M,En estudio,Colombia,11001
+3746,2020-04-12,2020-04-19,2020-04-11 00:00:00,,,2020-04-19,Bogotá d.c.,Bogotá D.C.,Leve,Casa,26,20 - 30,M,En estudio,Colombia,11001
 3747,2020-03-12,2020-04-19,2020-03-12 00:00:00,,,2020-04-19,Bogotá d.c.,Bogotá D.C.,Moderado,Hospital,28,20 - 30,M,En estudio,Colombia,11001
-3748,2020-04-12,2020-04-19,2020-03-25 00:00:00,,,2020-04-19,Bogotá d.c.,Bogotá D.C.,leve,Casa,20,10 - 20,F,En estudio,Colombia,11001
-3749,2020-04-12,2020-04-19,2020-04-06 00:00:00,,,2020-04-19,Bogotá d.c.,Bogotá D.C.,leve,Casa,62,60 - 70,F,En estudio,Colombia,11001
+3748,2020-04-12,2020-04-19,2020-03-25 00:00:00,,,2020-04-19,Bogotá d.c.,Bogotá D.C.,Leve,Casa,20,10 - 20,F,En estudio,Colombia,11001
+3749,2020-04-12,2020-04-19,2020-04-06 00:00:00,,,2020-04-19,Bogotá d.c.,Bogotá D.C.,Leve,Casa,62,60 - 70,F,En estudio,Colombia,11001
 3750,2020-04-12,2020-04-19,2020-04-03 00:00:00,,,2020-04-19,Bogotá d.c.,Bogotá D.C.,Moderado,Hospital,47,40 - 50,M,En estudio,Colombia,11001
-3751,2020-04-12,2020-04-19,2020-03-28 00:00:00,,,2020-04-19,Bogotá d.c.,Bogotá D.C.,leve,Casa,51,50 - 60,M,En estudio,Colombia,11001
-3752,2020-04-13,2020-04-19,2020-04-13 00:00:00,,,2020-04-19,Bogotá d.c.,Bogotá D.C.,leve,Casa,85,80 - 90,M,En estudio,Colombia,11001
-3753,2020-04-13,2020-04-19,2020-04-02 00:00:00,,,2020-04-19,Bogotá d.c.,Bogotá D.C.,leve,Casa,27,20 - 30,M,En estudio,Colombia,11001
-3754,2020-04-13,2020-04-19,2020-04-04 00:00:00,,,2020-04-19,Bogotá d.c.,Bogotá D.C.,leve,Casa,30,20 - 30,M,En estudio,Colombia,11001
-3755,2020-04-13,2020-04-19,2020-03-20 00:00:00,,,2020-04-19,Bogotá d.c.,Bogotá D.C.,leve,Casa,51,50 - 60,F,En estudio,Colombia,11001
-3756,2020-04-13,2020-04-19,2020-04-13 00:00:00,,,2020-04-19,Bogotá d.c.,Bogotá D.C.,leve,Casa,13,10 - 20,M,En estudio,Colombia,11001
-3757,2020-04-12,2020-04-19,2020-04-02 00:00:00,,,2020-04-19,Bogotá d.c.,Bogotá D.C.,leve,Casa,22,20 - 30,F,En estudio,Colombia,11001
+3751,2020-04-12,2020-04-19,2020-03-28 00:00:00,,,2020-04-19,Bogotá d.c.,Bogotá D.C.,Leve,Casa,51,50 - 60,M,En estudio,Colombia,11001
+3752,2020-04-13,2020-04-19,2020-04-13 00:00:00,,,2020-04-19,Bogotá d.c.,Bogotá D.C.,Leve,Casa,85,80 - 90,M,En estudio,Colombia,11001
+3753,2020-04-13,2020-04-19,2020-04-02 00:00:00,,,2020-04-19,Bogotá d.c.,Bogotá D.C.,Leve,Casa,27,20 - 30,M,En estudio,Colombia,11001
+3754,2020-04-13,2020-04-19,2020-04-04 00:00:00,,,2020-04-19,Bogotá d.c.,Bogotá D.C.,Leve,Casa,30,20 - 30,M,En estudio,Colombia,11001
+3755,2020-04-13,2020-04-19,2020-03-20 00:00:00,,,2020-04-19,Bogotá d.c.,Bogotá D.C.,Leve,Casa,51,50 - 60,F,En estudio,Colombia,11001
+3756,2020-04-13,2020-04-19,2020-04-13 00:00:00,,,2020-04-19,Bogotá d.c.,Bogotá D.C.,Leve,Casa,13,10 - 20,M,En estudio,Colombia,11001
+3757,2020-04-12,2020-04-19,2020-04-02 00:00:00,,,2020-04-19,Bogotá d.c.,Bogotá D.C.,Leve,Casa,22,20 - 30,F,En estudio,Colombia,11001
 3758,2020-04-12,2020-04-19,2020-04-11 00:00:00,,,2020-04-19,Bogotá d.c.,Bogotá D.C.,Moderado,Hospital,103,90 - 100+,F,En estudio,Colombia,11001
-3759,2020-04-13,2020-04-19,2020-04-10 00:00:00,,,2020-04-19,Bogotá d.c.,Bogotá D.C.,leve,Casa,10,0 - 10,M,En estudio,Colombia,11001
-3760,2020-04-13,2020-04-19,2020-04-05 00:00:00,,,2020-04-19,Bogotá d.c.,Bogotá D.C.,leve,Casa,21,20 - 30,M,En estudio,Colombia,11001
-3761,2020-04-13,2020-04-19,2020-04-06 00:00:00,,,2020-04-19,Bogotá d.c.,Bogotá D.C.,leve,Casa,33,30 - 40,F,En estudio,Colombia,11001
-3762,2020-04-13,2020-04-19,2020-04-10 00:00:00,,,2020-04-19,Bogotá d.c.,Bogotá D.C.,leve,Casa,32,30 - 40,M,En estudio,Colombia,11001
-3763,2020-04-13,2020-04-19,2020-04-03 00:00:00,,,2020-04-19,Bogotá d.c.,Bogotá D.C.,leve,Casa,56,50 - 60,F,En estudio,Colombia,11001
-3764,2020-04-13,2020-04-19,2020-04-10 00:00:00,,,2020-04-19,Bogotá d.c.,Bogotá D.C.,leve,Casa,38,30 - 40,M,En estudio,Colombia,11001
-3765,2020-04-13,2020-04-19,2020-04-11 00:00:00,,,2020-04-19,Bogotá d.c.,Bogotá D.C.,leve,Casa,30,20 - 30,F,En estudio,Colombia,11001
-3766,2020-04-13,2020-04-19,2020-04-12 00:00:00,,,2020-04-19,Bogotá d.c.,Bogotá D.C.,leve,Casa,35,30 - 40,F,En estudio,Colombia,11001
-3767,2020-04-13,2020-04-19,2020-04-12 00:00:00,,,2020-04-19,Bogotá d.c.,Bogotá D.C.,leve,Casa,36,30 - 40,F,En estudio,Colombia,11001
-3768,2020-04-13,2020-04-19,2020-04-09 00:00:00,,,2020-04-19,Bogotá d.c.,Bogotá D.C.,leve,Casa,23,20 - 30,F,En estudio,Colombia,11001
-3769,2020-04-13,2020-04-19,2020-04-12 00:00:00,,,2020-04-19,Bogotá d.c.,Bogotá D.C.,leve,Casa,40,30 - 40,M,En estudio,Colombia,11001
-3770,2020-04-13,2020-04-19,2020-04-13 00:00:00,,,2020-04-19,Bogotá d.c.,Bogotá D.C.,leve,Casa,32,30 - 40,F,En estudio,Colombia,11001
-3771,2020-04-12,2020-04-19,2020-04-12 00:00:00,,,2020-04-19,Bogotá d.c.,Bogotá D.C.,leve,Casa,74,70 - 80,M,En estudio,Colombia,11001
-3772,2020-04-13,2020-04-19,2020-04-04 00:00:00,,,2020-04-19,Bogotá d.c.,Bogotá D.C.,leve,Casa,23,20 - 30,F,En estudio,Colombia,11001
-3773,2020-04-13,2020-04-19,2020-04-04 00:00:00,,,2020-04-19,Bogotá d.c.,Bogotá D.C.,leve,Casa,12,10 - 20,F,En estudio,Colombia,11001
-3774,2020-04-11,2020-04-19,2020-04-10 00:00:00,,,2020-04-19,Bogotá d.c.,Bogotá D.C.,leve,Casa,85,80 - 90,F,En estudio,Colombia,11001
-3775,2020-04-11,2020-04-19,2020-04-11 00:00:00,,,2020-04-19,Bogotá d.c.,Bogotá D.C.,leve,Casa,23,20 - 30,F,En estudio,Colombia,11001
-3776,2020-04-12,2020-04-19,2020-04-12 00:00:00,,,2020-04-19,Bogotá d.c.,Bogotá D.C.,leve,Casa,50,40 - 50,M,En estudio,Colombia,11001
-3777,2020-04-12,2020-04-19,Asintomáti,,,2020-04-19,Bogotá d.c.,Bogotá D.C.,leve,Casa,43,40 - 50,M,En estudio,Colombia,11001
-3778,2020-04-12,2020-04-19,2020-04-11 00:00:00,,,2020-04-19,Bogotá d.c.,Bogotá D.C.,leve,Casa,29,20 - 30,M,En estudio,Colombia,11001
+3759,2020-04-13,2020-04-19,2020-04-10 00:00:00,,,2020-04-19,Bogotá d.c.,Bogotá D.C.,Leve,Casa,10,0 - 10,M,En estudio,Colombia,11001
+3760,2020-04-13,2020-04-19,2020-04-05 00:00:00,,,2020-04-19,Bogotá d.c.,Bogotá D.C.,Leve,Casa,21,20 - 30,M,En estudio,Colombia,11001
+3761,2020-04-13,2020-04-19,2020-04-06 00:00:00,,,2020-04-19,Bogotá d.c.,Bogotá D.C.,Leve,Casa,33,30 - 40,F,En estudio,Colombia,11001
+3762,2020-04-13,2020-04-19,2020-04-10 00:00:00,,,2020-04-19,Bogotá d.c.,Bogotá D.C.,Leve,Casa,32,30 - 40,M,En estudio,Colombia,11001
+3763,2020-04-13,2020-04-19,2020-04-03 00:00:00,,,2020-04-19,Bogotá d.c.,Bogotá D.C.,Leve,Casa,56,50 - 60,F,En estudio,Colombia,11001
+3764,2020-04-13,2020-04-19,2020-04-10 00:00:00,,,2020-04-19,Bogotá d.c.,Bogotá D.C.,Leve,Casa,38,30 - 40,M,En estudio,Colombia,11001
+3765,2020-04-13,2020-04-19,2020-04-11 00:00:00,,,2020-04-19,Bogotá d.c.,Bogotá D.C.,Leve,Casa,30,20 - 30,F,En estudio,Colombia,11001
+3766,2020-04-13,2020-04-19,2020-04-12 00:00:00,,,2020-04-19,Bogotá d.c.,Bogotá D.C.,Leve,Casa,35,30 - 40,F,En estudio,Colombia,11001
+3767,2020-04-13,2020-04-19,2020-04-12 00:00:00,,,2020-04-19,Bogotá d.c.,Bogotá D.C.,Leve,Casa,36,30 - 40,F,En estudio,Colombia,11001
+3768,2020-04-13,2020-04-19,2020-04-09 00:00:00,,,2020-04-19,Bogotá d.c.,Bogotá D.C.,Leve,Casa,23,20 - 30,F,En estudio,Colombia,11001
+3769,2020-04-13,2020-04-19,2020-04-12 00:00:00,,,2020-04-19,Bogotá d.c.,Bogotá D.C.,Leve,Casa,40,30 - 40,M,En estudio,Colombia,11001
+3770,2020-04-13,2020-04-19,2020-04-13 00:00:00,,,2020-04-19,Bogotá d.c.,Bogotá D.C.,Leve,Casa,32,30 - 40,F,En estudio,Colombia,11001
+3771,2020-04-12,2020-04-19,2020-04-12 00:00:00,,,2020-04-19,Bogotá d.c.,Bogotá D.C.,Leve,Casa,74,70 - 80,M,En estudio,Colombia,11001
+3772,2020-04-13,2020-04-19,2020-04-04 00:00:00,,,2020-04-19,Bogotá d.c.,Bogotá D.C.,Leve,Casa,23,20 - 30,F,En estudio,Colombia,11001
+3773,2020-04-13,2020-04-19,2020-04-04 00:00:00,,,2020-04-19,Bogotá d.c.,Bogotá D.C.,Leve,Casa,12,10 - 20,F,En estudio,Colombia,11001
+3774,2020-04-11,2020-04-19,2020-04-10 00:00:00,,,2020-04-19,Bogotá d.c.,Bogotá D.C.,Leve,Casa,85,80 - 90,F,En estudio,Colombia,11001
+3775,2020-04-11,2020-04-19,2020-04-11 00:00:00,,,2020-04-19,Bogotá d.c.,Bogotá D.C.,Leve,Casa,23,20 - 30,F,En estudio,Colombia,11001
+3776,2020-04-12,2020-04-19,2020-04-12 00:00:00,,,2020-04-19,Bogotá d.c.,Bogotá D.C.,Leve,Casa,50,40 - 50,M,En estudio,Colombia,11001
+3777,2020-04-12,2020-04-19,Asintomáti,,,2020-04-19,Bogotá d.c.,Bogotá D.C.,Leve,Casa,43,40 - 50,M,En estudio,Colombia,11001
+3778,2020-04-12,2020-04-19,2020-04-11 00:00:00,,,2020-04-19,Bogotá d.c.,Bogotá D.C.,Leve,Casa,29,20 - 30,M,En estudio,Colombia,11001
 3779,2020-04-12,2020-04-19,2020-04-12 00:00:00,,,2020-04-19,Bogotá d.c.,Bogotá D.C.,Moderado,Hospital,60,50 - 60,M,En estudio,Colombia,11001
-3780,2020-04-13,2020-04-19,2020-04-11 00:00:00,,,2020-04-19,Bogotá d.c.,Bogotá D.C.,leve,Casa,35,30 - 40,F,En estudio,Colombia,11001
+3780,2020-04-13,2020-04-19,2020-04-11 00:00:00,,,2020-04-19,Bogotá d.c.,Bogotá D.C.,Leve,Casa,35,30 - 40,F,En estudio,Colombia,11001
 3781,2020-04-15,2020-04-19,2020-04-08 00:00:00,,,2020-04-19,Villavicencio,Meta,Leve,Casa,42,40 - 50,M,Relacionado,Colombia,50001
 3782,2020-04-15,2020-04-19,2020-04-08 00:00:00,,,2020-04-19,Villavicencio,Meta,Leve,Casa,29,20 - 30,M,Relacionado,Colombia,50001
 3783,2020-04-15,2020-04-19,2020-04-02 00:00:00,,,2020-04-19,Villavicencio,Meta,Leve,Casa,38,30 - 40,M,Relacionado,Colombia,50001
@@ -3794,8 +3794,8 @@ Id de caso,Fecha de notificación,Fecha de diagnóstico,Fecha de Inicio de Sínt
 3793,2020-04-15,2020-04-19,2020-04-15 00:00:00,,,2020-04-19,Cartagena de indias,Cartagena D.T. y C.,Leve,Casa,50,40 - 50,M,Relacionado,Colombia,13001
 3794,2020-04-20,2020-04-20,2020-04-12 00:00:00,,,2020-04-20,Bello,Antioquia,Leve,Casa,6,0 - 10,M,Relacionado,Colombia,5088
 3795,2020-04-20,2020-04-20,2020-04-15 00:00:00,,,2020-04-20,Bello,Antioquia,Leve,Casa,51,50 - 60,F,Relacionado,Colombia,5088
-3796,2020-04-17,2020-04-19,2020-04-10 00:00:00,,,2020-04-19,Bello,Antioquia,leve,Casa,29,20 - 30,F,Relacionado,Colombia,5088
-3797,2020-04-16,2020-04-20,2020-04-08 00:00:00,,,2020-04-20,Bogotá d.c.,Bogotá D.C.,leve,Casa,51,50 - 60,F,En estudio,Colombia,11001
+3796,2020-04-17,2020-04-19,2020-04-10 00:00:00,,,2020-04-19,Bello,Antioquia,Leve,Casa,29,20 - 30,F,Relacionado,Colombia,5088
+3797,2020-04-16,2020-04-20,2020-04-08 00:00:00,,,2020-04-20,Bogotá d.c.,Bogotá D.C.,Leve,Casa,51,50 - 60,F,En estudio,Colombia,11001
 3798,2020-04-13,2020-04-20,2020-04-10 00:00:00,,,2020-04-20,Ciénaga,Magdalena,Leve,Casa,36,30 - 40,M,En estudio,Colombia,47189
 3799,2020-04-13,2020-04-20,2020-04-06 00:00:00,,,2020-04-20,Cali,Valle del Cauca,Leve,Casa,67,60 - 70,M,En estudio,Colombia,76001
 3800,2020-04-13,2020-04-20,2020-03-30 00:00:00,,,2020-04-20,Cali,Valle del Cauca,Leve,Casa,29,20 - 30,F,En estudio,Colombia,76001
@@ -3894,26 +3894,26 @@ Id de caso,Fecha de notificación,Fecha de diagnóstico,Fecha de Inicio de Sínt
 3893,2020-04-15,2020-04-20,2020-04-15 00:00:00,,,2020-04-20,Medellín,Antioquia,Leve,Casa,23,20 - 30,F,En estudio,Colombia,5001
 3894,2020-04-14,2020-04-20,2020-04-06 00:00:00,,,2020-04-20,Bogotá d.c.,Bogotá D.C.,Leve,Casa,38,30 - 40,F,En estudio,Colombia,11001
 3895,2020-04-18,2020-04-20,2020-04-16 00:00:00,,,2020-04-20,Bogotá d.c.,Bogotá D.C.,Leve,Casa,33,30 - 40,F,En estudio,Colombia,11001
-3896,2020-04-17,2020-04-20,2020-03-27 00:00:00,,,2020-04-20,Bogotá d.c.,Bogotá D.C.,leve,Casa,57,50 - 60,M,En estudio,Colombia,11001
+3896,2020-04-17,2020-04-20,2020-03-27 00:00:00,,,2020-04-20,Bogotá d.c.,Bogotá D.C.,Leve,Casa,57,50 - 60,M,En estudio,Colombia,11001
 3897,2020-04-07,2020-04-20,2020-04-07 00:00:00,,,2020-04-20,Bogotá d.c.,Bogotá D.C.,Leve,Casa,37,30 - 40,F,En estudio,Colombia,11001
-3898,2020-04-16,2020-04-20,2020-04-13 00:00:00,,,2020-04-20,Bogotá d.c.,Bogotá D.C.,leve,Casa,53,50 - 60,F,En estudio,Colombia,11001
-3899,2020-04-15,2020-04-20,2020-04-15 00:00:00,,,2020-04-20,Bogotá d.c.,Bogotá D.C.,leve,Casa,36,30 - 40,M,En estudio,Colombia,11001
+3898,2020-04-16,2020-04-20,2020-04-13 00:00:00,,,2020-04-20,Bogotá d.c.,Bogotá D.C.,Leve,Casa,53,50 - 60,F,En estudio,Colombia,11001
+3899,2020-04-15,2020-04-20,2020-04-15 00:00:00,,,2020-04-20,Bogotá d.c.,Bogotá D.C.,Leve,Casa,36,30 - 40,M,En estudio,Colombia,11001
 3900,2020-04-16,2020-04-20,2020-04-09 00:00:00,,,2020-04-20,Bogotá d.c.,Bogotá D.C.,Moderado,Hospital,59,50 - 60,M,En estudio,Colombia,11001
-3901,2020-04-16,2020-04-20,2020-04-08 00:00:00,,,2020-04-20,Bogotá d.c.,Bogotá D.C.,leve,Casa,48,40 - 50,M,En estudio,Colombia,11001
-3902,2020-04-16,2020-04-20,2020-04-08 00:00:00,,,2020-04-20,Bogotá d.c.,Bogotá D.C.,leve,Casa,39,30 - 40,F,En estudio,Colombia,11001
-3903,2020-04-15,2020-04-20,2020-03-19 00:00:00,,,2020-04-20,Bogotá d.c.,Bogotá D.C.,leve,Casa,29,20 - 30,M,En estudio,Colombia,11001
+3901,2020-04-16,2020-04-20,2020-04-08 00:00:00,,,2020-04-20,Bogotá d.c.,Bogotá D.C.,Leve,Casa,48,40 - 50,M,En estudio,Colombia,11001
+3902,2020-04-16,2020-04-20,2020-04-08 00:00:00,,,2020-04-20,Bogotá d.c.,Bogotá D.C.,Leve,Casa,39,30 - 40,F,En estudio,Colombia,11001
+3903,2020-04-15,2020-04-20,2020-03-19 00:00:00,,,2020-04-20,Bogotá d.c.,Bogotá D.C.,Leve,Casa,29,20 - 30,M,En estudio,Colombia,11001
 3904,2020-04-16,2020-04-20,2020-04-14 00:00:00,,,2020-04-20,Bogotá d.c.,Bogotá D.C.,Moderado,Hospital,59,50 - 60,M,En estudio,Colombia,11001
-3905,2020-04-16,2020-04-20,2020-04-12 00:00:00,,,2020-04-20,Bogotá d.c.,Bogotá D.C.,leve,Casa,88,80 - 90,M,En estudio,Colombia,11001
+3905,2020-04-16,2020-04-20,2020-04-12 00:00:00,,,2020-04-20,Bogotá d.c.,Bogotá D.C.,Leve,Casa,88,80 - 90,M,En estudio,Colombia,11001
 3906,2020-04-15,2020-04-20,2020-04-10 00:00:00,,,2020-04-20,Bogotá d.c.,Bogotá D.C.,Moderado,Hospital,68,60 - 70,M,En estudio,Colombia,11001
 3907,2020-04-15,2020-04-20,2020-04-12 00:00:00,,,2020-04-20,Bogotá d.c.,Bogotá D.C.,Moderado,Hospital,53,50 - 60,F,En estudio,Colombia,11001
 3908,2020-04-15,2020-04-20,2020-04-05 00:00:00,,,2020-04-20,Bogotá d.c.,Bogotá D.C.,Moderado,Hospital,45,40 - 50,M,En estudio,Colombia,11001
-3909,2020-04-17,2020-04-20,2020-04-14 00:00:00,,,2020-04-20,Bogotá d.c.,Bogotá D.C.,leve,Casa,40,30 - 40,F,En estudio,Colombia,11001
-3910,2020-04-17,2020-04-20,2020-04-09 00:00:00,,,2020-04-20,Bogotá d.c.,Bogotá D.C.,leve,Casa,33,30 - 40,M,En estudio,Colombia,11001
-3911,2020-04-17,2020-04-20,2020-04-06 00:00:00,,,2020-04-20,Bogotá d.c.,Bogotá D.C.,leve,Casa,55,50 - 60,M,En estudio,Colombia,11001
-3912,2020-04-16,2020-04-20,2020-04-14 00:00:00,,,2020-04-20,Bogotá d.c.,Bogotá D.C.,leve,Casa,45,40 - 50,F,En estudio,Colombia,11001
-3913,2020-04-17,2020-04-20,2020-04-06 00:00:00,,,2020-04-20,Bogotá d.c.,Bogotá D.C.,leve,Casa,31,30 - 40,M,En estudio,Colombia,11001
-3914,2020-04-19,2020-04-20,2020-04-16 00:00:00,,,2020-04-20,Bogotá d.c.,Bogotá D.C.,leve,Casa,51,50 - 60,F,En estudio,Colombia,11001
-3915,2020-04-16,2020-04-20,2020-04-10 00:00:00,,,2020-04-20,Bogotá d.c.,Bogotá D.C.,leve,Casa,51,50 - 60,M,En estudio,Colombia,11001
+3909,2020-04-17,2020-04-20,2020-04-14 00:00:00,,,2020-04-20,Bogotá d.c.,Bogotá D.C.,Leve,Casa,40,30 - 40,F,En estudio,Colombia,11001
+3910,2020-04-17,2020-04-20,2020-04-09 00:00:00,,,2020-04-20,Bogotá d.c.,Bogotá D.C.,Leve,Casa,33,30 - 40,M,En estudio,Colombia,11001
+3911,2020-04-17,2020-04-20,2020-04-06 00:00:00,,,2020-04-20,Bogotá d.c.,Bogotá D.C.,Leve,Casa,55,50 - 60,M,En estudio,Colombia,11001
+3912,2020-04-16,2020-04-20,2020-04-14 00:00:00,,,2020-04-20,Bogotá d.c.,Bogotá D.C.,Leve,Casa,45,40 - 50,F,En estudio,Colombia,11001
+3913,2020-04-17,2020-04-20,2020-04-06 00:00:00,,,2020-04-20,Bogotá d.c.,Bogotá D.C.,Leve,Casa,31,30 - 40,M,En estudio,Colombia,11001
+3914,2020-04-19,2020-04-20,2020-04-16 00:00:00,,,2020-04-20,Bogotá d.c.,Bogotá D.C.,Leve,Casa,51,50 - 60,F,En estudio,Colombia,11001
+3915,2020-04-16,2020-04-20,2020-04-10 00:00:00,,,2020-04-20,Bogotá d.c.,Bogotá D.C.,Leve,Casa,51,50 - 60,M,En estudio,Colombia,11001
 3916,2020-04-16,2020-04-20,2020-04-15 00:00:00,,,2020-04-20,Bogotá d.c.,Bogotá D.C.,Moderado,Hospital,84,80 - 90,M,En estudio,Colombia,11001
 3917,2020-04-17,2020-04-20,2020-03-30 00:00:00,,,2020-04-20,Bogotá d.c.,Bogotá D.C.,Leve,Casa,23,20 - 30,M,En estudio,Colombia,11001
 3918,2020-04-17,2020-04-20,2020-04-14 00:00:00,,,2020-04-20,Bogotá d.c.,Bogotá D.C.,Leve,Casa,28,20 - 30,F,En estudio,Colombia,11001
